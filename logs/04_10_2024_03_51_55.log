@@ -1,0 +1,1 @@
+[2024-04-10 03:52:16,303] 1013 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
