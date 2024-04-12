@@ -83,7 +83,7 @@ with col2:
                                 st.table(df)
 
                                 
-                                st.text_area(label="📝 Review", value=response["review"])
+                                #st.text_area(label="📝 Review", value=response["review"])
                             else:
                                 st.error("❌ Error in the table data")
                     else:
