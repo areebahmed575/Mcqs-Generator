@@ -12,7 +12,10 @@ from src.mcqgenerator.MCQGenerator import generate_evaluate_chain
 from src.mcqgenerator.logger import logging
 
 
-with open('C:\\Users\\DELL\\Documents\\blockchain\\GenAiProject\\mcq-generator\\Response.json', 'r') as file:
+
+
+
+with open('Response.json', 'r') as file:
     RESPONSE_JSON = json.load(file)
 
 
